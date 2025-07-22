@@ -26,6 +26,7 @@ For any inquiries, potential collaborations, or if you're interested in joining 
 Stay connected and get the latest updates from CESAFI:
 
 **Official Facebook Page**: [The CESAFI Official Page](https://www.facebook.com/thecesafi/) 👍
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?label=Discord&logo=discord&logoColor=white)](https://discord.gg/CdTFPCFRVr)
+
+**Discord Server:** [CESAFI Website Gang Discord Server](https://discord.gg/CdTFPCFRVr)
 
 *For more context on CESAFI, you can check out the CESAFI Facebook page.* 📚
